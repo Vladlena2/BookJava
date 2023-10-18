@@ -471,7 +471,7 @@ month_days = new int [12];
 
 [Chapter03/DuoArray - Пример двумерного массива](https://github.com/Vladlena2/BookJava/blob/main/Chapter3/DuoArray.java "Посмотреть пример Java")
 
-[Chapter03/ThreeArray - Пример трехмерного массива]((https://github.com/Vladlena2/BookJava/blob/main/Chapter3/ThreeArray.java "Посмотреть пример Java")
+[Chapter03/ThreeArray - Пример трехмерного массива](https://github.com/Vladlena2/BookJava/blob/main/Chapter3/ThreeArray.java "Посмотреть пример Java")
   
 Хотя в такой ситуации индивидуальное размещение массивов второго измерения не дает каких-то преимуществ, в других случаях такие преимущества 
 могут быть. Скажем, при выделении памяти под измерения по отдельности 
