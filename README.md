@@ -1385,7 +1385,7 @@ this.depth = depth ;
 </blockquote>
 </details>
 
-<details ГЛАВА 2><summary>ГЛАВА 2. "Краткий обзор языка Java"</summary>
+<details ГЛАВА 7><summary>ГЛАВА 7. "Подробный анализ методов и классов"</summary>
 <blockquote>
 
 <details><summary>Перегрузка методов</summary>
@@ -1404,7 +1404,7 @@ this.depth = depth ;
 
 Ниже приведен простой пример, иллюстрирующий перегрузку методов:
 
-[Chapter07/OverloadDemo - Продемонстрировать перегрузку методов].(https://github.com/Vladlena2/BookJava/tree/main/Chapter7/OverloadDemo "Посмотреть пример Java")
+[Chapter07/OverloadDemo - Продемонстрировать перегрузку методов].(https://github.com/Vladlena2/BookJava/tree/main/Chapter7/OverloadDemo.java "Посмотреть пример Java")
 
 
 </details> 
