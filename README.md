@@ -3814,6 +3814,12 @@ reduce(...)
 
 </details>
 
+Понятное объяснение работы операций:
+https://annimon.com/article/2778
+
+Здесь можно посмотреть подробные примеры по различным операциям:
+https://spetriuk.github.io/java/Java%20Stream%20API/
+
 </blockquote>
 </details>
 
